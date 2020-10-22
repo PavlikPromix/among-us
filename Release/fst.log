@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\beriy\source\repos\fst\main.cpp(16,35): warning C4326: возвращаемый тип "main" должен быть "int", а не "DWORD"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 74 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  fst.vcxproj -> C:\Users\beriy\source\repos\fst\Release\fst.dll

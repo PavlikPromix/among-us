@@ -1,0 +1,2 @@
+C:\Users\beriy\source\repos\fst\Debug\fst.exe
+C:\Users\beriy\source\repos\fst\Debug\fst.pdb
