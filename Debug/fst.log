@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\beriy\source\repos\fst\main.cpp(20,8): error C2664: "int std::basic_string<char,std::char_traits<char>,std::allocator<char>>::compare(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &) noexcept const": невозможно преобразовать аргумент 1 из "WCHAR [260]" в "const _Elem *const "
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\beriy\source\repos\fst\main.cpp(20,36): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstring(4149,20): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::compare"
+C:\Users\beriy\source\repos\fst\main.cpp(27,12): error C2664: "int std::basic_string<char,std::char_traits<char>,std::allocator<char>>::compare(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &) noexcept const": невозможно преобразовать аргумент 1 из "WCHAR [260]" в "const _Elem *const "
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\beriy\source\repos\fst\main.cpp(27,40): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstring(4149,20): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::compare"
